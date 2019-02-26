@@ -1,0 +1,8 @@
+[package]
+name = "touch"
+version = "0.0.0"
+authors = ["Josh <questofiranon@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2.14"
